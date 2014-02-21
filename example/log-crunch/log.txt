@@ -4,3 +4,6 @@ dsl5.example.com: invalid user 'charlie'
 dsl5.example.com: invalid user 'david'
 dsl8.example.net: invalid password for user 'admin'
 dsl8.example.net: user 'admin' logged in
+dsl9.example.net: invalid user 'bob'
+dsl9.example.net: invalid user 'jane'
+dsl9.example.net: invalid user 'pete'
